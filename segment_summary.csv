@@ -1,0 +1,6 @@
+Segment,Count,Recency_Mean,Recency_Std,Frequency_Mean,Frequency_Std,Monetary_Mean,Monetary_Std,Monetary_Total
+At Risk,1270,138.67,94.37,1.64,0.97,425.66,285.82,540582.22
+Champions,142,5.39,5.09,31.76,27.16,21798.74,39685.83,3095421.12
+Lost Customers,520,259.49,67.27,1.19,0.52,172.79,72.93,89850.43
+Loyal Customers,1011,15.8,16.91,6.96,3.96,3394.92,7295.23,3432266.48
+Potential Loyalists,1395,52.79,46.45,3.07,1.98,1256.84,2841.62,1753287.65

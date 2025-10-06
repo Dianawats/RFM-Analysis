@@ -1,0 +1,21 @@
+CustomerID,Recency,Frequency,Monetary,Segment
+14646,2,73,280206.02,Champions
+18102,1,60,259657.3,Champions
+17450,8,46,194550.79,Champions
+16446,1,2,168472.5,Loyal Customers
+14911,1,201,143825.06,Champions
+12415,24,21,124914.53,Loyal Customers
+14156,10,55,117379.63,Champions
+17511,3,31,91062.38,Champions
+16029,39,63,81024.84,Champions
+12346,326,1,77183.6,Potential Loyalists
+16684,4,28,66653.56,Champions
+14096,4,17,65164.79,Champions
+13694,4,50,65039.62,Champions
+15311,1,91,60767.9,Champions
+13089,3,97,58825.83,Champions
+17949,1,45,58510.48,Champions
+15769,7,26,56252.72,Champions
+15061,4,48,54534.14,Champions
+14298,8,44,51527.3,Champions
+14088,10,13,50491.81,Loyal Customers
