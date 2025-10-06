@@ -34,7 +34,7 @@ Download from Kaggle
 Save as **Online Retail.xlsx** in the project folder
 
 ## 👩‍💻 Author
-- **Github: Diana Wats**
+**Github: Diana Wats**
 - **RFM Analysis** for customer segmentation
 - **Project:** Customer Segmentation RFM Analysists
 
