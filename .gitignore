@@ -1,0 +1,11 @@
+# Exclude large dataset files
+*.xlsx
+*.xls
+
+# Exclude Python cache
+__pycache__/
+*.pyc
+
+# Exclude system files
+.DS_Store
+Thumbs.db
