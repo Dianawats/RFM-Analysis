@@ -3,14 +3,10 @@
 ![Elevvo Internship](https://img.shields.io/badge/Internship-Elevvo-0078D4)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange)
-![Status](https://img.shields.io/badge/Status-Completed-success)
-![License](https://img.shields.io/badge/License-MIT-yellow)
-
-```markdown
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-blue)
 ![Seaborn](https://img.shields.io/badge/Seaborn-Statistics-lightblue)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ## Project Overview
 This project performs customer segmentation using RFM (Recency, Frequency, Monetary) analysis on online retail data. The analysis helps identify different customer groups for targeted marketing strategies.
